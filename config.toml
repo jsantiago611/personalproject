@@ -43,8 +43,8 @@ disabled = false
 enableDNT = true
 simple = true
 [privacy.vimeo]
-disabled = false
-simple = true
+disabled = true
+simple = false
 [privacy.youtube]
 disabled = false
 privacyEnhanced = true
